@@ -22,7 +22,7 @@
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/AmanGupta1703/Todo-Backend.git
 ```
 
 2. Install dependencies
